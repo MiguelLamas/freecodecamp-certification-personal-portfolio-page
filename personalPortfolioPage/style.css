@@ -322,7 +322,7 @@
   
   .btn-show-all {
     font-size: 2rem;
-    background: var(--main-black)
+    background: var(--main-black);
     transition: background 0.3s ease-out;
   }
   
